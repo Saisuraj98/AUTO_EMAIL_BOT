@@ -1,0 +1,4 @@
+[1/9/25, 11:54:57 AM] Suraj: python3 -m venv myenv
+[1/9/25, 11:55:21 AM] Suraj: source myenv/bin/activate
+[1/9/25, 11:55:26 AM] Suraj: pip install -r requirements.txt
+[1/9/25, 11:55:34 AM] Suraj: python3 send.py
